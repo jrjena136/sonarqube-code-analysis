@@ -1,0 +1,6 @@
+projectKey=com.jyoti.sonar.demo:sonarqube-code-analysis
+serverUrl=http://localhost:9000
+serverVersion=6.7.4.38452
+dashboardUrl=http://localhost:9000/dashboard/index/com.jyoti.sonar.demo:sonarqube-code-analysis
+ceTaskId=AWRAO7thcPL7yo54xXcZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWRAO7thcPL7yo54xXcZ
